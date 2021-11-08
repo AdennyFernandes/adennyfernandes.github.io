@@ -1,3 +1,3 @@
 # adennyfernandes.github.io
 
-Página criada em html, css, e javascript com o objetivo de construir uma página de portfólio.
+Página criada em HTML5, CSS3, e Javascript, com o objetivo de construir um Portfólio.
